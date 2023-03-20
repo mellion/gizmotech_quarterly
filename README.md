@@ -3,6 +3,11 @@
    This repository serves as a testament to the power of integrating PostgreSQL and Power BI to transform raw data into actionable insights, even with minimal data. It highlights the importance of data-driven decision-making for organizations of any size, as they strive to optimize their financial performance in the early stages of growth.
 
 
+
+
+
+
+
 ![SQL Image](https://github.com/Mellion/Gizmotech_quarterly/blob/main/images/sql_code.png?raw=true)
 ![Dashboard Image](https://github.com/Mellion/Gizmotech_quarterly/blob/main/images/dashboard.png?raw=true)
 
